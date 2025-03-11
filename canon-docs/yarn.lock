@@ -2576,11 +2576,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^12.4.10":
-  version: 12.4.10
-  resolution: "framer-motion@npm:12.4.10"
+"framer-motion@npm:^12.4.13":
+  version: 12.4.13
+  resolution: "framer-motion@npm:12.4.13"
   dependencies:
-    motion-dom: ^12.4.10
+    motion-dom: ^12.4.11
     motion-utils: ^12.4.10
     tslib: ^2.4.0
   peerDependencies:
@@ -2594,7 +2594,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: c5e2e3658627e37b91c0a09d0ef908dddc67028240d7b747845ecfe84bb9cadefcaab715f05e587d1baf029a3766356825aac91f0f062e92f29a0f551e59770f
+  checksum: 36dd9be5c63f307e322152639d1684c20c1f1f9e95af42a9c9a8cd5ee4abd903609bac10585aabb067ef5baccbe028f09bb6ba532667a82c5bb395669e46047c
   languageName: node
   linkType: hard
 
@@ -4118,12 +4118,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"motion-dom@npm:^12.4.10":
-  version: 12.4.10
-  resolution: "motion-dom@npm:12.4.10"
+"motion-dom@npm:^12.4.11":
+  version: 12.4.11
+  resolution: "motion-dom@npm:12.4.11"
   dependencies:
     motion-utils: ^12.4.10
-  checksum: 6ecf64e5a41db29b228940a9d832f67f69ce4c4b23bb501ed93bb98acaa30deb6bf486cfb319bdf4f63bef5f45448605cb212ab74a819f93dcfaae9e3aeb6053
+  checksum: 0c1c77a785c92bc3f054b5fc4480259959a8d94150f967e13c2e14add6c1d912f1ed65e6a7660f4dbf9caf1dff16fb8ae4004d410c13d58cedfffb6be9b6a77a
   languageName: node
   linkType: hard
 
@@ -4135,10 +4135,10 @@ __metadata:
   linkType: hard
 
 "motion@npm:^12.4.1":
-  version: 12.4.10
-  resolution: "motion@npm:12.4.10"
+  version: 12.4.13
+  resolution: "motion@npm:12.4.13"
   dependencies:
-    framer-motion: ^12.4.10
+    framer-motion: ^12.4.13
     tslib: ^2.4.0
   peerDependencies:
     "@emotion/is-prop-valid": "*"
@@ -4151,7 +4151,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 007ed203beaf4d61c941780c96078c48822ee913a4b34c7232a165592405e1f81cc267b3645061a4bbaed9fe1d2260ecd4e12433b5062c50dc882f469069d8b9
+  checksum: a6eef4cd747fb37048979734fb6c5324bfeda11c0e82aa03985be51e6e9d65bf1243b1af1b283a8f63a22149e092ace14a461d8e5006e2be143b2e5edfc10f5e
   languageName: node
   linkType: hard
 
