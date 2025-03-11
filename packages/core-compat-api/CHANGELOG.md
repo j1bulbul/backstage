@@ -1,5 +1,18 @@
 # @backstage/core-compat-api
 
+## 0.4.0-next.2
+
+### Minor Changes
+
+- 8250ffe: **BREAKING**: Dropped support for the removed opaque `@backstage/ExtensionOverrides` and `@backstage/BackstagePlugin` types.
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/frontend-plugin-api@0.10.0-next.2
+  - @backstage/core-plugin-api@1.10.4
+  - @backstage/version-bridge@1.0.11
+
 ## 0.3.7-next.1
 
 ### Patch Changes
